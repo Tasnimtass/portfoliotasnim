@@ -67,25 +67,6 @@ body {
     object-position: top;
 }
 
-.sidebar_container .image .right_image_box {
-    width: 70%;
-    height: 100px;
-    background-color: white;
-    position: absolute;
-    bottom: -3.5rem;
-    left: -3rem;
-    transform: rotate(16deg);
-}
-
-.sidebar_container .image .left_image_box {
-    width: 70%;
-    height: 100px;
-    background-color: white;
-    position: absolute;
-    bottom: -3.5rem;
-    right: -3rem;
-    transform: rotate(-16deg);
-}
 
 .sidebar_container .sidebar_content {
     position: absolute;
