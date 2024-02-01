@@ -160,13 +160,14 @@ body {
 }
 
 .content_container::-webkit-scrollbar {
-    width: 0.2rem;
+    width: 0.3rem;
 }
 
 .content_container::-webkit-scrollbar-thumb {
     width: 0.2rem;
     background-color: gray;
     border-radius: 0.2rem;
+
 }
 
 /* About Page */
@@ -555,6 +556,7 @@ li .profile_title {
         width: 100%;
         height: 80vh;
         margin-bottom: 1rem;
+
     }
 
     .about_profile {
@@ -609,7 +611,7 @@ li .profile_title {
     .contact_container form .form_name_row .right_form_row {
         width: 100%;
     }
-
+    
     #global_menu_button_container {
         position: fixed;
         top: -0.1rem;
